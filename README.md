@@ -12,3 +12,4 @@ Slack, Notion, GitHub
 🌐 Languages
 Native in English and French
 
+https://github-readme-codewars-stats.herokuapp.com/api/?username=vanhaaggen&badge&colormode=bright_mode
