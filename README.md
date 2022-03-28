@@ -14,17 +14,17 @@ Slack, Notion, GitHub
 <h3 align="left">🌐 Languages</h3>
 Native in English and French
 
-<a href="https://github-readme-codewars-stats.herokuapp.com/api/?username=medericmesle&badge&colormode=bright_mode" target="_blank" rel="noreferrer"> <img 
+<a href="https://github-readme-codewars-stats.herokuapp.com/api/?username=medericmesle&badge&colormode=bright_mode" target="_blank" rel="noreferrer"></a>
 
-<h3 align="left"> 🌱 I’m currently learning <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img </h3>
+<h3 align="left"> 🌱 I’m currently learning React</h3>
 
-- 👨‍💻 All of my projects are available at [https://troopl.com/medericmesle](https://troopl.com/medericmesle)
+<h3 align="left"> 👨‍💻 All of my projects are available at [https://troopl.com/medericmesle](https://troopl.com/medericmesle)</h3>
 
-- 📫 How to reach me **mederic.mesle@gmail.com**
+<h3 align="left"> 📫 How to reach me **mederic.mesle@gmail.com**</h3>
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/medericmesle/](https://www.linkedin.com/in/medericmesle/)
+<h3 align="left"> 📄 Know about my experiences [https://www.linkedin.com/in/medericmesle/](https://www.linkedin.com/in/medericmesle/)</h3>
 
-- ⚡ Fun fact **I'm a lever espresso fiend**
+<h3 align="left"> ⚡ Fun fact **I'm a lever espresso fiend**</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
