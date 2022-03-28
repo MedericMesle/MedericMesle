@@ -15,9 +15,10 @@ Slack, Notion, GitHub
 Native in English and French
 
 
+<a https://github-readme-codewars-stats.herokuapp.com/api/?username=vanhaaggen&badge&colormode=bright_mode>
 
 
-- 🌱 I’m currently learning **React**
+<h3 align="left">- 🌱 I’m currently learning **React**</h3>
 
 - 👨‍💻 All of my projects are available at [https://troopl.com/medericmesle](https://troopl.com/medericmesle)
 
