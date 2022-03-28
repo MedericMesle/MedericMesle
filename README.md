@@ -14,7 +14,7 @@ Slack, Notion, GitHub
 <h3 align="left">🌐 Languages</h3>
 Native in English and French
 
-<a href="https://github-readme-codewars-stats.herokuapp.com/api/?username=medericmesle&badge&colormode=bright_mode" target="_blank" rel="noreferrer"></a>
+<img href="https://github-readme-codewars-stats.herokuapp.com/api/?username=medericmesle&badge&colormode=bright_mode" target="_blank" rel="noreferrer" />
 
 <p align="left"> 🌱 I’m currently learning React</p>
 
