@@ -16,17 +16,17 @@ Native in English and French
 
 <a href="https://github-readme-codewars-stats.herokuapp.com/api/?username=medericmesle&badge&colormode=bright_mode" target="_blank" rel="noreferrer"></a>
 
-<h3 align="left"> 🌱 I’m currently learning React</h3>
+<p align="left"> 🌱 I’m currently learning React</p>
 
-<h3 align="left"> 👨‍💻 All of my projects are available at [https://troopl.com/medericmesle](https://troopl.com/medericmesle)</h3>
+<p align="left"> 👨‍💻 All of my projects are available at [https://troopl.com/medericmesle](https://troopl.com/medericmesle)</p>
 
-<h3 align="left"> 📫 How to reach me **mederic.mesle@gmail.com**</h3>
+<p align="left"> 📫 How to reach me **mederic.mesle@gmail.com**</p>
 
-<h3 align="left"> 📄 Know about my experiences [https://www.linkedin.com/in/medericmesle/](https://www.linkedin.com/in/medericmesle/)</h3>
+<p align="left"> 📄 Know about my experiences [https://www.linkedin.com/in/medericmesle/](https://www.linkedin.com/in/medericmesle/)</p>
 
-<h3 align="left"> ⚡ Fun fact **I'm a lever espresso fiend**</h3>
+<p align="left"> ⚡ Fun fact **I'm a lever espresso fiend**</p>
 
-<h3 align="left">Connect with me:</h3>
+<p align="left">Connect with me:</p>
 <p align="left">
 <a href="https://linkedin.com/in/medericmesle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="medericmesle" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/mederic mesle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="mederic mesle" height="30" width="40" /></a>
