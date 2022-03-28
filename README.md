@@ -14,6 +14,9 @@ Slack, Notion, GitHub
 <h3 align="left">🌐 Languages</h3>
 Native in English and French
 
+<br>
+<br>
+
 <img src="https://github-readme-codewars-stats.herokuapp.com/api/?username=MedericMesle&badge&colormode=bright_mode">
 
 
