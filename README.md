@@ -15,10 +15,10 @@ Slack, Notion, GitHub
 Native in English and French
 
 
-<a https://github-readme-codewars-stats.herokuapp.com/api/?username=vanhaaggen&badge&colormode=bright_mode>
+<a href="https://github-readme-codewars-stats.herokuapp.com/api/?username=medericmesle&badge&colormode=bright_mode" >
 
 
-<h3 align="left">- 🌱 I’m currently learning **React**</h3>
+<h3 align="left"> 🌱 I’m currently learning <a href="https://techblog.sdstudio.top/wp-content/uploads/2021/09/ba11d056cec27254d89b310745e4071b-1-750x430.png"></h3>
 
 - 👨‍💻 All of my projects are available at [https://troopl.com/medericmesle](https://troopl.com/medericmesle)
 
