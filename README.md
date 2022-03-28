@@ -15,6 +15,8 @@ Slack, Notion, GitHub
 Native in English and French
 
 
+
+
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://troopl.com/medericmesle](https://troopl.com/medericmesle)
