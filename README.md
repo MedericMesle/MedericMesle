@@ -17,6 +17,7 @@ Native in English and French
 <br>
 <br>
 
+<p align="left"> A little flex, I'm only a beginner :octocat:
 <img src="https://github-readme-codewars-stats.herokuapp.com/api/?username=MedericMesle&badge&colormode=bright_mode">
 
 
