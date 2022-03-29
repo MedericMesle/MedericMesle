@@ -17,9 +17,14 @@ Native in English and French
 <br>
 <br>
 
-<p align="left"> A little flex, I'm only a beginner :octocat:
+<p align="left"> :octocat: A little flex, I'm only a beginner 
+<br>
+<br>
 <img src="https://github-readme-codewars-stats.herokuapp.com/api/?username=MedericMesle&badge&colormode=bright_mode">
+<br>
+<br>
 
+<p align="left"> 🤐 I’m currently working on a super secret personal project (a website helping coffee crazies find similar grind setting on different coffee grinders (and yeah I'm making quite a mess)</p> 
 
 <p align="left"> 🌱 I’m currently learning React</p>
 
