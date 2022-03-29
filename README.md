@@ -28,11 +28,11 @@ Native in English and French
 
 <p align="left"> 🌱 I’m currently learning React</p>
 
-<p align="left"> 👨‍💻 All of my projects are available at [https://troopl.com/medericmesle](https://troopl.com/medericmesle)</p>
+<p align="left"> 👨‍💻 All of my projects are available at [troopl](https://troopl.com/medericmesle)</p>
 
 <p align="left"> 📫 How to reach me **mederic.mesle@gmail.com**</p>
 
-<p align="left"> 📄 Know about my experiences [https://www.linkedin.com/in/medericmesle/](https://www.linkedin.com/in/medericmesle/)</p>
+<p align="left"> 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/medericmesle/)</p>
 
 <p align="left"> ⚡ Fun fact **I'm a lever espresso fiend**</p>
 
