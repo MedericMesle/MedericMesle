@@ -34,6 +34,8 @@ Native in English and French
 
 <p align="left"> 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/medericmesle/)</p>
 
+<p align="left"> ✍🏻 Read something I wrote [Medium](https://medium.com/@mederic.mesle)</p>
+
 <p align="left"> ⚡ Fun fact **I'm a lever espresso fiend**</p>
 
 <p align="left">Connect with me:</p>
