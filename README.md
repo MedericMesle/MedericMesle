@@ -24,18 +24,6 @@ Native in English and French
 <br>
 <br>
 
-<p align="left"> 🤐 I’m currently working on a super secret personal project (a website helping coffee crazies find similar grind setting on different coffee grinders (and yeah I'm making quite a mess)</p> 
-
-<p align="left"> 🌱 I’m currently learning React</p>
-
-<p align="left"> 👨‍💻 All of my projects are available at [troopl](https://troopl.com/medericmesle)</p>
-
-<p align="left"> 📫 How to reach me **mederic.mesle@gmail.com**</p>
-
-<p align="left"> 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/medericmesle/)</p>
-
-<p align="left"> ✍🏻 Read something I wrote [Medium](https://medium.com/@mederic.mesle)</p>
-
 <p align="left"> ⚡ Fun fact **I'm a lever espresso fiend**</p>
 
 <p align="left">Connect with me:</p>
