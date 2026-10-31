@@ -15,8 +15,7 @@ I build billing and payment systems. I care about TDD, written architecture deci
 <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" alt="rabbitmq" width="40" height="40"/></a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/></a>
 </p>
-<p align="left">Also: Sidekiq · RSpec · Jest · AppSignal · CloudWatch · Claude Code</p>
-
+<p align="left">Also: Sidekiq · RSpec · Jest · AppSignal · CloudWatch · OpenCode</p>
 <p align="left">⚡ Fun fact: I'm a lever espresso fiend</p>
 
 <p align="left">
